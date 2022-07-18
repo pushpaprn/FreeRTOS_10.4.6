@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/com.ti.ccstudio.buildDefinitions.TMS470.Debug.19211934/HEAP_SIZE/delimiter=;
+environment/project/com.ti.ccstudio.buildDefinitions.TMS470.Debug.19211934/HEAP_SIZE/operation=append
+environment/project/com.ti.ccstudio.buildDefinitions.TMS470.Debug.19211934/HEAP_SIZE/value=10240
+environment/project/com.ti.ccstudio.buildDefinitions.TMS470.Debug.19211934/STACK_SIZE/delimiter=;
+environment/project/com.ti.ccstudio.buildDefinitions.TMS470.Debug.19211934/STACK_SIZE/operation=append
+environment/project/com.ti.ccstudio.buildDefinitions.TMS470.Debug.19211934/STACK_SIZE/value=5120
+environment/project/com.ti.ccstudio.buildDefinitions.TMS470.Debug.19211934/append=true
+environment/project/com.ti.ccstudio.buildDefinitions.TMS470.Debug.19211934/appendContributed=true
